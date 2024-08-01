@@ -1,0 +1,1 @@
+package com.ben.frame.domain.res;
